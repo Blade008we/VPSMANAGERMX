@@ -52,18 +52,6 @@ VPS-MX Versión 8.4 (las dependencias faltantes se instalarán automáticamente)
 
 https://raw.githubusercontent.com/Blade008we/VPSMANAGERMX/main/Install/Version
 
-## :octocat: Contribute
-
-1. @Kalix1 - Developer of VPS-MX
-2. @Rufu99 - Contributor
-3. Team Casita-MX - Contributor
-4. Team Illuminati - Contributor
-
--------------------------------------------------------------------------------
-* Repositorios: https://github.com/VPS-MX
-* Repositorios: https://github.com/rudi9999
-* Repositorios: https://github.com/lacasitamx
--------------------------------------------------------------------------------
 
 ```
 * SIN MINERIA! 

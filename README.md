@@ -1,9 +1,6 @@
 # VPS-MX Vers. 8.4 Original
 
-```
 ![logo](https://github.com/Blade008we/VPSMANAGERMX/blob/main/Imagenes/logo.jpg)
-
-```
 
 **Manager Script**
 

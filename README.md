@@ -5,7 +5,7 @@
 * VPS-MX Manager (Final Version VPS-MX Manager)
 ```
 
-![logo](https://github.com/Blade008we/VPSMANAGERMX/blob/main/Imagenes/logo.jpg)
+![logo](https://github.com/Blade008we/VPSMANAGERMX/blob/main/Imagenes/NEW-ULTIMATE-VPS-MX-8.4.png)
 
 **Manager Script**
 

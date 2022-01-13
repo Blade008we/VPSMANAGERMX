@@ -1,5 +1,10 @@
 # VPS-MX Vers. 8.4 Original
 
+```
+* UPDATE 24/11/2021 - Update Proyecto
+* VPS-MX Manager (Final Version VPS-MX Manager)
+```
+
 ![logo](https://github.com/Blade008we/VPSMANAGERMX/blob/main/Imagenes/logo.jpg)
 
 **Manager Script**

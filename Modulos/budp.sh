@@ -14,7 +14,7 @@ msg -tit
     msg -ama "            ACTIVADOR DE BADVPN (UDP 7300)"
     msg -bar 
     if [[ ! -e /bin/badvpn-udpgw ]]; then
-    wget -O /bin/badvpn-udpgw https://raw.githubusercontent.com/Razhiel2019/VPS-MX/main/VPS-MX_Oficial/ArchivosUtilitarios/badvpn-udpgw &>/dev/null
+    wget -O /bin/badvpn-udpgw https://raw.githubusercontent.com/Blade008we/VPSMANAGERMX/main/VPS-MX_Oficial/ArchivosUtilitarios/badvpn-udpgw &>/dev/null
     chmod 777 /bin/badvpn-udpgw
     fi
     screen -dmS badvpn2 /bin/badvpn-udpgw --listen-addr 127.0.0.1:7300 --max-clients 1000 --max-connections-for-client 10 
